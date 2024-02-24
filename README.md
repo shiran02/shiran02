@@ -6,6 +6,10 @@
 🔵Strong proficiency in Android development using Java.
 🔵Well-versed in industry best practices, design patterns, and performance optimization techniques.
 
+##Example of work
+<img src ="https://github.com/shiran02/shiran02/blob/main/Advanced%20Mobile%20App%20Promo%20Free%20(3)%201-1.m4v" width ="256"/>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiran02&theme=dark&show_icons=true)
 
 ### Hi there 👋, Shiran
