@@ -16,10 +16,6 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiran02&theme=dark&show_icons=true)
 
-### Hi there 👋, Shiran
-#### Mobile App Development
-![Mobile App Development](https://media.licdn.com/dms/image/D5616AQGId1WO_-stsQ/profile-displaybackgroundimage-shrink_350_1400/0/1708756560000?e=1714003200&v=beta&t=Wuu8pXD0hZLnF2vGLjJvUB2w6U4GITPZ0cJlPGbCgNE)
-
 
 
 Skills: FLUTTER / NATIVE ANDROID / JAVA/ DART 
