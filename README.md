@@ -35,7 +35,8 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/themes/24l6l4s6qhihn/header-logo.1646255364.svg" width="36" height="36" alt="PostMan" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="36" height="36" alt="Dart" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="36" height="36" alt="Dart" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="36" height="36" alt="javascript" /></a>
 
 <br><br>
 
