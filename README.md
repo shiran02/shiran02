@@ -21,33 +21,19 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
   </div>
 </div>
 
-##Example of work
-
-
-🔵 🔭 L-Board Mobile App<br>
-<img src ="https://github.com/shiran02/shiran02/blob/main/AdvancedMobileAppPromoFree31-1-ezgif.com-video-to-gif-converter.gif" width ="256"/><br><br><br>
-🔵 🌱 Green-city Mobile App <br>
-<img src ="https://github.com/shiran02/shiran02/blob/main/green_city.gif" width ="256"/><br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiran02&theme=dark&show_icons=true)
 
 
-
-Skills: FLUTTER / NATIVE ANDROID / JAVA/ DART 
-
-
-
+🛠️ Skills:
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/themes/24l6l4s6qhihn/header-logo.1646255364.svg" width="36" height="36" alt="PostMan" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="36" height="36" alt="Dart" /></a>
 
-<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="36" height="36" alt="PostMan" /></a>
 
-<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="36" height="36" alt="PostMan" /></a>
 
 
 
