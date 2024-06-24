@@ -29,7 +29,7 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
 <br><br>
 
 
-🛠️ Skills:<br>
+🛠️ Skills:<br><br><br>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -37,7 +37,7 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="36" height="36" alt="Dart" /></a>
 
-
+<br><br>
 
 
 
