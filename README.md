@@ -32,6 +32,10 @@ Skills: FLUTTER / NATIVE ANDROID / JAVA/ DART
 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/themes/24l6l4s6qhihn/header-logo.1646255364.svg" width="36" height="36" alt="PostMan" /></a>
 
+<a href="" target="_blank" rel="noreferrer"><img src="[https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/themes/24l6l4s6qhihn/header-logo.1646255364.svg](https://cdn.worldvectorlogo.com/logos/flutter.svg)" width="36" height="36" alt="PostMan" /></a>
+
+
+
 - 🔭 I’m currently working on FortXcore Research and Development · Internship 
 - 🌱 I’m currently learning REACT / HTML /CSS / NODE JS  
 
