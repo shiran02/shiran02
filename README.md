@@ -21,11 +21,15 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
   </div>
 </div>
 
+<br><br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiran02&theme=dark&show_icons=true)
 
+<br><br>
 
-🛠️ Skills:
+
+🛠️ Skills:<br>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
