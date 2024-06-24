@@ -8,6 +8,19 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
 🔵Strong proficiency in Android development using Java.
 🔵Well-versed in industry best practices, design patterns, and performance optimization techniques.
 
+
+📱 Example of Work
+<div style="display: flex; flex-direction: row;">
+  <div style="margin-right: 20px;">
+    <h3>🔭 L-Board Mobile App</h3>
+    <img src ="https://github.com/shiran02/shiran02/blob/main/AdvancedMobileAppPromoFree31-1-ezgif.com-video-to-gif-converter.gif" width ="256"/>
+  </div>
+  <div>
+    <h3>🌱 Green-city Mobile App</h3>
+    <img src ="https://github.com/shiran02/shiran02/blob/main/green_city.gif" width ="256"/>
+  </div>
+</div>
+
 ##Example of work
 
 
@@ -33,6 +46,8 @@ Skills: FLUTTER / NATIVE ANDROID / JAVA/ DART
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/themes/24l6l4s6qhihn/header-logo.1646255364.svg" width="36" height="36" alt="PostMan" /></a>
 
 <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="36" height="36" alt="PostMan" /></a>
+
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="36" height="36" alt="PostMan" /></a>
 
 
 
