@@ -39,7 +39,8 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
 <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="36" height="36" alt="javascript" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg" width="36" height="36" alt="firebase" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/android-6.svg" width="36" height="36" alt="android" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://git-scm.com/downloads/logos" width="36" height="36" alt="android" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="36" height="36" alt="git" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="36" height="36" alt="git" /></a>
 
 <br><br>
 
