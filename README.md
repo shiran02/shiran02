@@ -48,7 +48,7 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
 
 
 
-- 🔭 I’m currently working on FortXcore Research and Development · Internship 
+- 🔭 I’m currently working on Sopwil Technology PVT Ltd
 - 🌱 I’m currently learning REACT / HTML /CSS / NODE JS  
 
 
