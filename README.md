@@ -53,8 +53,7 @@ I'm shiran, i am an Young developer and experienced Flutter and Android develope
 
 
 
-- 🔭 I’m currently working on SOPWIL Technologies Private Limited
-- 🌱 I’m currently learning REACT / HTML /CSS / NODE JS  
+- 🔭 I’m currently working on Novestra Private Limited
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shiran02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/fj-3hcGCNw__sWMDQHzJ5A)  
